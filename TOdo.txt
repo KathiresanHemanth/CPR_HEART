@@ -1,0 +1,12 @@
+Correct the wave 
+	Calculate a new value from second to
+
+Instruction Ui -> With Continue
+Patient Survive ui -> Continuese wave 
+Patient Dead ui  		-> Straight line wave
+Retry Ui
+Correct wave -> Slow the niagara speed
+
+
+First wave to second wave - ok
+new wave - xx
